@@ -1,1 +1,1 @@
-hey this is our first chapter of git github command line version. we do more in upcoming lesson.
+hey this is our first chapter of git github command line version. we do more in upcoming lesson. This lesson is now about aliens.
